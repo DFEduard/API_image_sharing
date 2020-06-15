@@ -15,8 +15,8 @@ You should see (venv) before the path of the directory.
 Run the app:
 	- with the environment activated "cd" to where is run.py
 	- type: python3 run.py (use python 3)
-  - The server will start. 
-  - Default link: http://127.0.0.1:5000
+  	- The server will start. 
+  	- Default link: http://127.0.0.1:5000
 
 All links:
 	URL: http://127.0.0.1:5000/registration 			| Method: POST		| Requier: N/A
