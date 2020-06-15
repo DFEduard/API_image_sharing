@@ -5,14 +5,14 @@ API FOR AN IMAGE SHARING APP
 
 venv - virtual environment (must be activated)
 
--> Activate the environment:
+Activate the environment:
 	- open Command Prompt
 	- type: cd pathToTheApp/venv/Scripts then hit enter
 	- type: activate
 
 You should see (venv) before the path of the directory.
 
--> Run the app:
+Run the app:
 	- with the environment activated "cd" to where is run.py
 	- type: python3 run.py (use python 3)
   - The server will start. 
